@@ -33,7 +33,7 @@
       text-decoration: underline;
     }
     .banner {
-      background: url(https://www.shutterstock.com/shutterstock/photos/2429463807/display_1500/stock-photo-two-happy-busy-female-employees-working-together-using-computer-planning-project-middle-aged-2429463807.jpg) center/cover no-repeat;
+      background: url(https://app.pixverse.ai/create/image-text?detail=show&id=358093163876359&platform=web) center/cover no-repeat;
       height: 400px;
       display: flex;
       justify-content: center;
