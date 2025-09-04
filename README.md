@@ -33,7 +33,7 @@
       text-decoration: underline;
     }
     .banner {
-      background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+      background: url(file:///C:/Users/PC%20Mart/OneDrive/Pictures/Camera%20Roll/two-happy-busy-female-employees-600nw-2429463807.webp) center/cover no-repeat;
       height: 400px;
       display: flex;
       justify-content: center;
