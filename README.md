@@ -120,7 +120,7 @@
   </header>
 
   <div class="banner">
-    Grow Your Business with  Digital Marketing Strategies
+    Grow Your Business with Digital Marketing Strategies
   </div>
 
   <main>
@@ -128,17 +128,17 @@
       <h2>Our Services</h2>
       <div class="services">
         <div class="service-box">
-          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-a020-622f-8d5f-46d32370371e/raw?se=2025-09-04T05%3A46%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=03b76082-2d6d-59d8-ad00-76ddfdd08ddf&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A23Z&ske=2025-09-04T19%3A42%3A23Z&sks=b&skv=2024-08-04&sig=ots7kata4oCkYPJPE9o18PjqiovCnA4zyY4STR0nlMc%3D alt="SEO Service" />
+          <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-a020-622f-8d5f-46d32370371e/raw?se=2025-09-04T05%3A46%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=03b76082-2d6d-59d8-ad00-76ddfdd08ddf&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A23Z&ske=2025-09-04T19%3A42%3A23Z&sks=b&skv=2024-08-04&sig=ots7kata4oCkYPJPE9o18PjqiovCnA4zyY4STR0nlMc%3D" alt="SEO Service" />
           <h3>Search Engine Optimization (SEO)</h3>
           <p>Improve your website ranking on Google and attract organic traffic.</p>
         </div>
         <div class="service-box">
-          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-f7dc-622f-943f-8c64e4277cbc/raw?se=2025-09-04T05%3A57%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=caecda39-fcc5-5cf1-a26c-ad63abd0eed4&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A52Z&ske=2025-09-04T19%3A42%3A52Z&sks=b&skv=2024-08-04&sig=pArPQ%2B9BOHT%2BwU1C0mOW%2BnmQeE1KOvoltCMFZs6JwqU%3D alt="Social Media Marketing" />
+          <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-f7dc-622f-943f-8c64e4277cbc/raw?se=2025-09-04T05%3A57%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=caecda39-fcc5-5cf1-a26c-ad63abd0eed4&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A52Z&ske=2025-09-04T19%3A42%3A52Z&sks=b&skv=2024-08-04&sig=pArPQ%2B9BOHT%2BwU1C0mOW%2BnmQeE1KOvoltCMFZs6JwqU%3D" alt="Social Media Marketing" />
           <h3>Social Media Marketing</h3>
           <p>Engage your audience and grow your brand on platforms like Facebook & Instagram.</p>
         </div>
         <div class="service-box">
-          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4930-622f-925d-ac49a940de37/raw?se=2025-09-04T06%3A13%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=05eabfd1-2904-5752-90fd-6987ccd88809&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A25Z&ske=2025-09-04T19%3A42%3A25Z&sks=b&skv=2024-08-04&sig=M7MDBDY%2BUp%2BBviLzBeXShhXnDkRDbCMWuLrjR2/VqEY%3D alt="Content Marketing" />
+          <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4930-622f-925d-ac49a940de37/raw?se=2025-09-04T06%3A13%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=05eabfd1-2904-5752-90fd-6987ccd88809&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A25Z&ske=2025-09-04T19%3A42%3A25Z&sks=b&skv=2024-08-04&sig=M7MDBDY%2BUp%2BBviLzBeXShhXnDkRDbCMWuLrjR2/VqEY%3D" alt="Content Marketing" />
           <h3>Content Marketing</h3>
           <p>Create valuable content that drives traffic and builds trust with your audience.</p>
         </div>
@@ -193,4 +193,4 @@
     </p>
   </footer>
 </body>
-</html># DM
+</html>
