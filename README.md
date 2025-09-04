@@ -1,1 +1,196 @@
-# DM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Digital Marketing Services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #1e90ff;
+      padding: 20px 40px;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 20px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .banner {
+      background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+      height: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      text-shadow: 1px 1px 4px black;
+      font-size: 36px;
+      font-weight: bold;
+      text-align: center;
+      padding: 0 20px;
+    }
+    main {
+      padding: 40px;
+      max-width: 1200px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #1e90ff;
+      border-bottom: 3px solid #1e90ff;
+      padding-bottom: 10px;
+    }
+    .services {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .service-box {
+      background: white;
+      flex: 1 1 300px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .service-box img {
+      max-width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+    .blog-posts {
+      list-style: none;
+      padding: 0;
+    }
+    .blog-posts li {
+      margin-bottom: 20px;
+    }
+    .blog-posts a {
+      color: #1e90ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .blog-posts a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background: #222;
+      color: #ddd;
+      text-align: center;
+      padding: 20px 40px;
+    }
+    footer a {
+      color: #1e90ff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Digital Marketing</h1>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#blog">Blog</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <div class="banner">
+    Grow Your Business with  Digital Marketing Strategies
+  </div>
+
+  <main>
+    <section id="services">
+      <h2>Our Services</h2>
+      <div class="services">
+        <div class="service-box">
+          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-a020-622f-8d5f-46d32370371e/raw?se=2025-09-04T05%3A46%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=03b76082-2d6d-59d8-ad00-76ddfdd08ddf&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A23Z&ske=2025-09-04T19%3A42%3A23Z&sks=b&skv=2024-08-04&sig=ots7kata4oCkYPJPE9o18PjqiovCnA4zyY4STR0nlMc%3D alt="SEO Service" />
+          <h3>Search Engine Optimization (SEO)</h3>
+          <p>Improve your website ranking on Google and attract organic traffic.</p>
+        </div>
+        <div class="service-box">
+          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-f7dc-622f-943f-8c64e4277cbc/raw?se=2025-09-04T05%3A57%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=caecda39-fcc5-5cf1-a26c-ad63abd0eed4&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A52Z&ske=2025-09-04T19%3A42%3A52Z&sks=b&skv=2024-08-04&sig=pArPQ%2B9BOHT%2BwU1C0mOW%2BnmQeE1KOvoltCMFZs6JwqU%3D alt="Social Media Marketing" />
+          <h3>Social Media Marketing</h3>
+          <p>Engage your audience and grow your brand on platforms like Facebook & Instagram.</p>
+        </div>
+        <div class="service-box">
+          <img src=https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-4930-622f-925d-ac49a940de37/raw?se=2025-09-04T06%3A13%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=05eabfd1-2904-5752-90fd-6987ccd88809&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T19%3A42%3A25Z&ske=2025-09-04T19%3A42%3A25Z&sks=b&skv=2024-08-04&sig=M7MDBDY%2BUp%2BBviLzBeXShhXnDkRDbCMWuLrjR2/VqEY%3D alt="Content Marketing" />
+          <h3>Content Marketing</h3>
+          <p>Create valuable content that drives traffic and builds trust with your audience.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="blog">
+      <h2>Latest Blog Posts</h2>
+      <ul class="blog-posts">
+        <li><a href="#post1">How SEO Can Boost Your Business in 2025</a></li>
+        <li><a href="#post2">Top Social Media Trends to Watch</a></li>
+        <li><a href="#post3">Creating Content That Converts</a></li>
+      </ul>
+      <article id="post1">
+        <h3>How SEO Can Boost Your Business in 2025</h3>
+        <p>🚀 How SEO Can Boost Your Business in 2025
+
+         More Visibility – Rank higher on Google & attract organic traffic.
+
+         AI-Ready – Optimize for voice & AI-driven searches.
+
+         Better UX – Fast, mobile-friendly websites win.
+
+         Cost-Effective – Long-term results without heavy ad spend.
+
+         Build Trust – Higher rankings = stronger credibility.</p>
+      </article>
+      <article id="post2">
+        <h3>Top Social Media Trends to Watch</h3>
+        <p>Social media is constantly evolving. Stay updated with the latest trends to stay ahead...</p>
+      </article>
+      <article id="post3">
+        <h3>Creating Content That Converts</h3>
+        <p>Effective content marketing drives engagement and sales. Learn how to craft content that works...</p>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:info@digitalmarketing.com">info@digitalmarketing.com</a></p>
+      <p>Phone: +1 234 567 8900</p>
+      <p>Address: 123 Marketing St, Business City</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Digital Marketing. All rights reserved.</p>
+    <p>
+      <a href="#services">Services</a> |
+      <a href="#blog">Blog</a> |
+      <a href="#contact">Contact</a>
+    </p>
+  </footer>
+</body>
+</html># DM
