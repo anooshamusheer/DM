@@ -33,7 +33,7 @@
       text-decoration: underline;
     }
     .banner {
-      background: url(file:///C:/Users/PC%20Mart/OneDrive/Pictures/Camera%20Roll/two-happy-busy-female-employees-600nw-2429463807.webp) center/cover no-repeat;
+      background: url(https://www.shutterstock.com/shutterstock/photos/2429463807/display_1500/stock-photo-two-happy-busy-female-employees-working-together-using-computer-planning-project-middle-aged-2429463807.jpg) center/cover no-repeat;
       height: 400px;
       display: flex;
       justify-content: center;
